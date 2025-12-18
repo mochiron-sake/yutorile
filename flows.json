@@ -1,0 +1,5007 @@
+[
+    {
+        "id": "2e91a2712784b518",
+        "type": "tab",
+        "label": "フロー 1",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b3df06b5a158305d",
+        "type": "tab",
+        "label": "フロー 2",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "6caa3c2cf86e334f",
+        "type": "tab",
+        "label": "フロー 3",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1fefbd5d951a270e",
+        "type": "tab",
+        "label": "フロー 4",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5830a9b0dbc144a0",
+        "type": "tab",
+        "label": "課題1",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1b0fbd4de7d1c803",
+        "type": "tab",
+        "label": "フロー 5",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "472119bf425bbb97",
+        "type": "tab",
+        "label": "課題2-1",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "528c5295a5bd7948",
+        "type": "tab",
+        "label": "課題2-2",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "0e0944660d0f8541",
+        "type": "tab",
+        "label": "フロー 6",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4784b2b17c8b2c46",
+        "type": "tab",
+        "label": "フロー 7",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "bb225d91cdf6bf7a",
+        "type": "tab",
+        "label": "フロー 8",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9c5328942d61fed3",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7e98807f351738db",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e94530b68dd433d2",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "8df5e78e63b45f8c",
+        "type": "tab",
+        "label": "Flow 4",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "08fc35a1206eb95f",
+        "type": "tab",
+        "label": "Flow 5",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ddfff142978b6b05",
+        "type": "tab",
+        "label": "Flow 6",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "a36f3069439e8e42",
+        "type": "tab",
+        "label": "Flow 7",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "781e2b05d1014082",
+        "type": "tab",
+        "label": "Flow 8",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "874ea218beb217dd",
+        "type": "tab",
+        "label": "Flow 9",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ba8f1ff1455046b1",
+        "type": "tab",
+        "label": "Flow 10",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "72c11bc9fc25aed7",
+        "type": "tab",
+        "label": "Flow 11",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f33bb04db2567fdf",
+        "type": "tab",
+        "label": "Flow 12",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "773fb9490487b629",
+        "type": "ui_tab",
+        "name": "test",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "318da0d1bdf80b14",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "6614e08e063bda20",
+        "type": "ui_group",
+        "name": "button",
+        "tab": "773fb9490487b629",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c26b4c9341f00ac3",
+        "type": "ui_tab",
+        "name": "test02",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "c28951f3d77eee94",
+        "type": "ui_group",
+        "name": "button02",
+        "tab": "c26b4c9341f00ac3",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "dcdbbde063ad0870",
+        "type": "ui_tab",
+        "name": "bzar",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "bc933852deb5a63c",
+        "type": "ui_group",
+        "name": "onoff",
+        "tab": "dcdbbde063ad0870",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f622d57ec39d39e4",
+        "type": "ui_tab",
+        "name": "bzar02",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "0f49d116d75c5231",
+        "type": "ui_group",
+        "name": "onoff",
+        "tab": "f622d57ec39d39e4",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "ff562973b972ea1f",
+        "type": "ui_tab",
+        "name": "test",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "f658a43e29d7f01a",
+        "type": "ui_group",
+        "name": "textinput",
+        "tab": "ff562973b972ea1f",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e98bdf908e661a52",
+        "type": "ui_tab",
+        "name": "kadai",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "80ffd3480b49b746",
+        "type": "ui_group",
+        "name": "button",
+        "tab": "e98bdf908e661a52",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6447cf5152deb4bf",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "192.168.30.126",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "1d81882c7d20ef0f",
+        "type": "firebaseCertificate",
+        "firebaseurl": "t-te5t-default-rtdb",
+        "loginType": "none"
+    },
+    {
+        "id": "761af20c59500e37",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "af9995aa649c5924",
+        "type": "ui_group",
+        "name": "sttBtn",
+        "tab": "761af20c59500e37",
+        "order": 3,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2fd74b16110c1e93",
+        "type": "ui_group",
+        "name": "SenserData",
+        "tab": "761af20c59500e37",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "392f38a550924a31",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "4d9034747aa6eaa1",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "761af20c59500e37",
+        "order": 4,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": "config"
+    },
+    {
+        "id": "7a0c48f29687e693",
+        "type": "ui_group",
+        "name": "Config",
+        "tab": "761af20c59500e37",
+        "order": 5,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "9453fff21bfb7c76",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "7ab89f6142958f2d",
+        "type": "ui_group",
+        "name": "RecordSammary",
+        "tab": "761af20c59500e37",
+        "order": 6,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e2b91085d7dd30bc",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ab886fba0264bd97",
+        "type": "ui_group",
+        "name": "Histry",
+        "tab": "761af20c59500e37",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "31960643e781b0a9",
+        "type": "ui_spacer",
+        "z": "f33bb04db2567fdf",
+        "name": "spacer",
+        "group": "ab886fba0264bd97",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "1510f293b5a63714",
+        "type": "inject",
+        "z": "2e91a2712784b518",
+        "name": "Hello",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Hello Node",
+        "payloadType": "str",
+        "x": 250,
+        "y": 120,
+        "wires": [
+            [
+                "7afbf258117f737b"
+            ]
+        ]
+    },
+    {
+        "id": "7afbf258117f737b",
+        "type": "debug",
+        "z": "2e91a2712784b518",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 660,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "3b82d3abb4737605",
+        "type": "inject",
+        "z": "b3df06b5a158305d",
+        "name": "Hello",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Hello",
+        "payloadType": "str",
+        "x": 130,
+        "y": 80,
+        "wires": [
+            [
+                "575d8720a4120a0a"
+            ]
+        ]
+    },
+    {
+        "id": "575d8720a4120a0a",
+        "type": "delay",
+        "z": "b3df06b5a158305d",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 380,
+        "y": 80,
+        "wires": [
+            [
+                "532b95b3e5183920"
+            ]
+        ]
+    },
+    {
+        "id": "532b95b3e5183920",
+        "type": "debug",
+        "z": "b3df06b5a158305d",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "26ac9175314abfae",
+        "type": "inject",
+        "z": "6caa3c2cf86e334f",
+        "name": "Hello",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Hello",
+        "payloadType": "str",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "db376de06dacd6bb",
+                "d3ec9a4956f1edf5"
+            ]
+        ]
+    },
+    {
+        "id": "db376de06dacd6bb",
+        "type": "change",
+        "z": "6caa3c2cf86e334f",
+        "name": "Bye",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bye",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 350,
+        "y": 100,
+        "wires": [
+            [
+                "bd774e83b134f34c"
+            ]
+        ]
+    },
+    {
+        "id": "bd774e83b134f34c",
+        "type": "debug",
+        "z": "6caa3c2cf86e334f",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "d3ec9a4956f1edf5",
+        "type": "debug",
+        "z": "6caa3c2cf86e334f",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "256ef54adc2d482a",
+        "type": "complete",
+        "z": "1fefbd5d951a270e",
+        "name": "",
+        "scope": [
+            "fc0612c01f5af6e3"
+        ],
+        "uncaught": false,
+        "x": 230,
+        "y": 220,
+        "wires": [
+            [
+                "100bc17901e1ad64"
+            ]
+        ]
+    },
+    {
+        "id": "fc0612c01f5af6e3",
+        "type": "inject",
+        "z": "1fefbd5d951a270e",
+        "name": "Hello",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "こんにちは",
+        "payloadType": "str",
+        "x": 210,
+        "y": 120,
+        "wires": [
+            [
+                "8067dca1b33f9c68"
+            ]
+        ]
+    },
+    {
+        "id": "8067dca1b33f9c68",
+        "type": "debug",
+        "z": "1fefbd5d951a270e",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 580,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "100bc17901e1ad64",
+        "type": "debug",
+        "z": "1fefbd5d951a270e",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 560,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "78d79ceb1c97b0f9",
+        "type": "inject",
+        "z": "5830a9b0dbc144a0",
+        "name": "Hello",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Hello",
+        "payloadType": "str",
+        "x": 190,
+        "y": 80,
+        "wires": [
+            [
+                "58a1711d9613b5ea"
+            ]
+        ]
+    },
+    {
+        "id": "58a1711d9613b5ea",
+        "type": "debug",
+        "z": "5830a9b0dbc144a0",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 680,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "709443b11ebac4a3",
+        "type": "complete",
+        "z": "5830a9b0dbc144a0",
+        "name": "",
+        "scope": [
+            "58a1711d9613b5ea"
+        ],
+        "uncaught": false,
+        "x": 170,
+        "y": 340,
+        "wires": [
+            [
+                "b05a3ba85e2037af"
+            ]
+        ]
+    },
+    {
+        "id": "b05a3ba85e2037af",
+        "type": "delay",
+        "z": "5830a9b0dbc144a0",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 380,
+        "y": 340,
+        "wires": [
+            [
+                "f88b8077015067b2"
+            ]
+        ]
+    },
+    {
+        "id": "f88b8077015067b2",
+        "type": "change",
+        "z": "5830a9b0dbc144a0",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "Bye",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 200,
+        "wires": [
+            [
+                "5af78309d577cfee"
+            ]
+        ]
+    },
+    {
+        "id": "5af78309d577cfee",
+        "type": "debug",
+        "z": "5830a9b0dbc144a0",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "67cb187faa712aa4",
+        "type": "rpi-gpio out",
+        "z": "1b0fbd4de7d1c803",
+        "name": "",
+        "pin": "5",
+        "set": true,
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 600,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "e59972ec977b4fa0",
+        "type": "inject",
+        "z": "1b0fbd4de7d1c803",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "67cb187faa712aa4"
+            ]
+        ]
+    },
+    {
+        "id": "80dfeca8c18e0fbc",
+        "type": "rpi-gpio out",
+        "z": "472119bf425bbb97",
+        "name": "",
+        "pin": "5",
+        "set": true,
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 520,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "28c093e7331ae4a3",
+        "type": "rpi-gpio out",
+        "z": "472119bf425bbb97",
+        "name": "",
+        "pin": "5",
+        "set": true,
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 520,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "2517fc224de3fb8a",
+        "type": "inject",
+        "z": "472119bf425bbb97",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 230,
+        "y": 180,
+        "wires": [
+            [
+                "80dfeca8c18e0fbc"
+            ]
+        ]
+    },
+    {
+        "id": "44e602313dffad98",
+        "type": "inject",
+        "z": "472119bf425bbb97",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 230,
+        "y": 280,
+        "wires": [
+            [
+                "28c093e7331ae4a3"
+            ]
+        ]
+    },
+    {
+        "id": "23092c8a5f150821",
+        "type": "rpi-gpio out",
+        "z": "528c5295a5bd7948",
+        "name": "",
+        "pin": "5",
+        "set": true,
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 760,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "f98bf95c86175379",
+        "type": "inject",
+        "z": "528c5295a5bd7948",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "2",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "1",
+        "payloadType": "num",
+        "x": 290,
+        "y": 160,
+        "wires": [
+            [
+                "23092c8a5f150821"
+            ]
+        ]
+    },
+    {
+        "id": "a0002ecd5ba29409",
+        "type": "complete",
+        "z": "528c5295a5bd7948",
+        "name": "",
+        "scope": [
+            "f98bf95c86175379"
+        ],
+        "uncaught": false,
+        "x": 310,
+        "y": 260,
+        "wires": [
+            [
+                "9b36687f6ce0fe13"
+            ]
+        ]
+    },
+    {
+        "id": "9b36687f6ce0fe13",
+        "type": "change",
+        "z": "528c5295a5bd7948",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 260,
+        "wires": [
+            [
+                "6ecf6d01d610e02f"
+            ]
+        ]
+    },
+    {
+        "id": "6ecf6d01d610e02f",
+        "type": "delay",
+        "z": "528c5295a5bd7948",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "1",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 720,
+        "y": 260,
+        "wires": [
+            [
+                "23092c8a5f150821"
+            ]
+        ]
+    },
+    {
+        "id": "dfaa605d07cc790f",
+        "type": "rpi-gpio in",
+        "z": "0e0944660d0f8541",
+        "name": "button",
+        "pin": "6",
+        "intype": "tri",
+        "debounce": "25",
+        "read": false,
+        "bcm": true,
+        "x": 250,
+        "y": 140,
+        "wires": [
+            [
+                "0ddcc022d4dcf18e"
+            ]
+        ]
+    },
+    {
+        "id": "0ddcc022d4dcf18e",
+        "type": "debug",
+        "z": "0e0944660d0f8541",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 600,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "40dd8c77bd915256",
+        "type": "switch",
+        "z": "4784b2b17c8b2c46",
+        "name": "10以下？",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lte",
+                "v": "10",
+                "vt": "num"
+            },
+            {
+                "t": "gt",
+                "v": "10",
+                "vt": "num"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 500,
+        "y": 160,
+        "wires": [
+            [
+                "94d4cf3bd5ae1a48"
+            ],
+            [
+                "b412610a2043ac74"
+            ]
+        ]
+    },
+    {
+        "id": "c701ba80bcf3b915",
+        "type": "inject",
+        "z": "4784b2b17c8b2c46",
+        "name": "9",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "9",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 80,
+        "wires": [
+            [
+                "40dd8c77bd915256"
+            ]
+        ]
+    },
+    {
+        "id": "c77c2f462541a9a4",
+        "type": "inject",
+        "z": "4784b2b17c8b2c46",
+        "name": "10",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "10",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 160,
+        "wires": [
+            [
+                "40dd8c77bd915256"
+            ]
+        ]
+    },
+    {
+        "id": "b932ccb352c86e9b",
+        "type": "inject",
+        "z": "4784b2b17c8b2c46",
+        "name": "11",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "11",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 240,
+        "wires": [
+            [
+                "40dd8c77bd915256"
+            ]
+        ]
+    },
+    {
+        "id": "94d4cf3bd5ae1a48",
+        "type": "debug",
+        "z": "4784b2b17c8b2c46",
+        "name": "lessequall10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 830,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "b412610a2043ac74",
+        "type": "debug",
+        "z": "4784b2b17c8b2c46",
+        "name": "over10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 810,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "78bae752840799fc",
+        "type": "rpi-gpio in",
+        "z": "bb225d91cdf6bf7a",
+        "name": "button",
+        "pin": "6",
+        "intype": "tri",
+        "debounce": "25",
+        "read": false,
+        "bcm": true,
+        "x": 70,
+        "y": 200,
+        "wires": [
+            [
+                "69f0ba209c2071fe"
+            ]
+        ]
+    },
+    {
+        "id": "2bc8d948568725ec",
+        "type": "rpi-gpio out",
+        "z": "bb225d91cdf6bf7a",
+        "name": "light",
+        "pin": "5",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 1090,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "382077f52f6f828f",
+        "type": "switch",
+        "z": "bb225d91cdf6bf7a",
+        "name": "TorF",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "gte",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "lt",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 530,
+        "y": 200,
+        "wires": [
+            [
+                "7ec02987f395c8d2"
+            ],
+            [
+                "3e7b97ed5e4dcd3b"
+            ]
+        ]
+    },
+    {
+        "id": "69f0ba209c2071fe",
+        "type": "debug",
+        "z": "bb225d91cdf6bf7a",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 260,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "ec5c6ce400eae434",
+        "type": "complete",
+        "z": "bb225d91cdf6bf7a",
+        "name": "",
+        "scope": [
+            "69f0ba209c2071fe"
+        ],
+        "uncaught": false,
+        "x": 270,
+        "y": 240,
+        "wires": [
+            [
+                "382077f52f6f828f"
+            ]
+        ]
+    },
+    {
+        "id": "7ec02987f395c8d2",
+        "type": "change",
+        "z": "bb225d91cdf6bf7a",
+        "name": "TtoF",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 770,
+        "y": 140,
+        "wires": [
+            [
+                "2bc8d948568725ec"
+            ]
+        ]
+    },
+    {
+        "id": "3e7b97ed5e4dcd3b",
+        "type": "change",
+        "z": "bb225d91cdf6bf7a",
+        "name": "FtoT",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "1",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 770,
+        "y": 220,
+        "wires": [
+            [
+                "2bc8d948568725ec"
+            ]
+        ]
+    },
+    {
+        "id": "5f4a8d4622c7d754",
+        "type": "grove-light-sensor-v1_2",
+        "z": "9c5328942d61fed3",
+        "name": "",
+        "port_number": 0,
+        "x": 190,
+        "y": 180,
+        "wires": [
+            [
+                "70f6ad2a8edb0c0a"
+            ]
+        ]
+    },
+    {
+        "id": "89c67ebedc2bb9e2",
+        "type": "inject",
+        "z": "9c5328942d61fed3",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "true",
+                "vt": "bool"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 80,
+        "y": 60,
+        "wires": [
+            [
+                "5f4a8d4622c7d754"
+            ]
+        ]
+    },
+    {
+        "id": "70f6ad2a8edb0c0a",
+        "type": "switch",
+        "z": "9c5328942d61fed3",
+        "name": "1~100",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lte",
+                "v": "100",
+                "vt": "num"
+            },
+            {
+                "t": "gt",
+                "v": "100",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 410,
+        "y": 60,
+        "wires": [
+            [
+                "5d6ac01c9f67b9e0",
+                "9e899feb1dc883ed"
+            ],
+            [
+                "6e026c1a0d1965b7",
+                "22f66e0801b448ad"
+            ]
+        ]
+    },
+    {
+        "id": "6e026c1a0d1965b7",
+        "type": "switch",
+        "z": "9c5328942d61fed3",
+        "name": "101~500",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lte",
+                "v": "500",
+                "vt": "num"
+            },
+            {
+                "t": "gt",
+                "v": "501",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 780,
+        "y": 100,
+        "wires": [
+            [
+                "ec9ec56ea4c84db2"
+            ],
+            [
+                "8a27382ddf56ca19"
+            ]
+        ]
+    },
+    {
+        "id": "8a27382ddf56ca19",
+        "type": "switch",
+        "z": "9c5328942d61fed3",
+        "name": "501~",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "gt",
+                "v": "501",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 750,
+        "y": 300,
+        "wires": [
+            [
+                "d5497e2dbcce14c2"
+            ]
+        ]
+    },
+    {
+        "id": "5d6ac01c9f67b9e0",
+        "type": "debug",
+        "z": "9c5328942d61fed3",
+        "name": "暗い",
+        "active": true,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": true,
+        "complete": "print \"暗い\"",
+        "targetType": "msg",
+        "statusVal": "{\t    \"payload\": \"暗い\"\t}",
+        "statusType": "auto",
+        "x": 520,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "ec9ec56ea4c84db2",
+        "type": "debug",
+        "z": "9c5328942d61fed3",
+        "name": "普通",
+        "active": true,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": true,
+        "complete": "{\"payload\":\"普通\"}",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 1040,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "d5497e2dbcce14c2",
+        "type": "debug",
+        "z": "9c5328942d61fed3",
+        "name": "明るい",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "{\t    \"payload\": \"明るい\"\t}",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 990,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "d5b455023fe96004",
+        "type": "rpi-gpio out",
+        "z": "9c5328942d61fed3",
+        "name": "turnOn",
+        "pin": "5",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 350,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "22f66e0801b448ad",
+        "type": "change",
+        "z": "9c5328942d61fed3",
+        "name": "let0",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 230,
+        "y": 340,
+        "wires": [
+            [
+                "3e9f8ec3b82cf901"
+            ]
+        ]
+    },
+    {
+        "id": "3e9f8ec3b82cf901",
+        "type": "rpi-gpio out",
+        "z": "9c5328942d61fed3",
+        "name": "turnoOff",
+        "pin": "5",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 160,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "9e899feb1dc883ed",
+        "type": "change",
+        "z": "9c5328942d61fed3",
+        "name": "let1",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "1",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 390,
+        "y": 300,
+        "wires": [
+            [
+                "d5b455023fe96004"
+            ]
+        ]
+    },
+    {
+        "id": "cfc5b1488d676b4d",
+        "type": "rpi-gpio out",
+        "z": "7e98807f351738db",
+        "name": "senserdLight",
+        "pin": "12",
+        "set": "",
+        "level": "0",
+        "freq": "100",
+        "out": "pwm",
+        "bcm": true,
+        "x": 1110,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "0741290830b87365",
+        "type": "grove-light-sensor-v1_2",
+        "z": "7e98807f351738db",
+        "name": "",
+        "port_number": 0,
+        "x": 330,
+        "y": 120,
+        "wires": [
+            [
+                "473173822ee8b370",
+                "745772ee573c558e"
+            ]
+        ]
+    },
+    {
+        "id": "d355f1df2fbbe554",
+        "type": "inject",
+        "z": "7e98807f351738db",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "0741290830b87365"
+            ]
+        ]
+    },
+    {
+        "id": "473173822ee8b370",
+        "type": "switch",
+        "z": "7e98807f351738db",
+        "name": "judgingLux",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "gt",
+                "v": "500",
+                "vt": "num"
+            },
+            {
+                "t": "lte",
+                "v": "500",
+                "vt": "num"
+            },
+            {
+                "t": "lt",
+                "v": "100",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 3,
+        "x": 570,
+        "y": 120,
+        "wires": [
+            [
+                "e470247541b0cf89"
+            ],
+            [
+                "f579db45afc17354"
+            ],
+            [
+                "8c94a5e7846cf910"
+            ]
+        ]
+    },
+    {
+        "id": "e470247541b0cf89",
+        "type": "change",
+        "z": "7e98807f351738db",
+        "name": "0",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 40,
+        "wires": [
+            [
+                "cfc5b1488d676b4d"
+            ]
+        ]
+    },
+    {
+        "id": "f579db45afc17354",
+        "type": "change",
+        "z": "7e98807f351738db",
+        "name": "50",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "50",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 120,
+        "wires": [
+            [
+                "cfc5b1488d676b4d"
+            ]
+        ]
+    },
+    {
+        "id": "8c94a5e7846cf910",
+        "type": "change",
+        "z": "7e98807f351738db",
+        "name": "100",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "100",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 200,
+        "wires": [
+            [
+                "cfc5b1488d676b4d"
+            ]
+        ]
+    },
+    {
+        "id": "745772ee573c558e",
+        "type": "debug",
+        "z": "7e98807f351738db",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 500,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "43b73d5cb7967cc7",
+        "type": "ui_button",
+        "z": "e94530b68dd433d2",
+        "name": "",
+        "group": "6614e08e063bda20",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "turnOn",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 490,
+        "y": 60,
+        "wires": [
+            [
+                "588b28ee8246865e",
+                "ce3a4066caa8b62a"
+            ]
+        ]
+    },
+    {
+        "id": "588b28ee8246865e",
+        "type": "debug",
+        "z": "e94530b68dd433d2",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "3aae75d32a1b4efb",
+        "type": "ui_button",
+        "z": "e94530b68dd433d2",
+        "name": "",
+        "group": "6614e08e063bda20",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "turnOff",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "0",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 490,
+        "y": 140,
+        "wires": [
+            [
+                "588b28ee8246865e",
+                "ce3a4066caa8b62a"
+            ]
+        ]
+    },
+    {
+        "id": "ce3a4066caa8b62a",
+        "type": "rpi-gpio out",
+        "z": "e94530b68dd433d2",
+        "name": "",
+        "pin": "12",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 1020,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "5a90de0fbc8da642",
+        "type": "inject",
+        "z": "e94530b68dd433d2",
+        "name": "1stConditiionisOff",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 230,
+        "y": 200,
+        "wires": [
+            [
+                "ce3a4066caa8b62a"
+            ]
+        ]
+    },
+    {
+        "id": "d05c5b27ccb3ddae",
+        "type": "inject",
+        "z": "e94530b68dd433d2",
+        "name": "1stConditionisOff",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 310,
+        "y": 580,
+        "wires": [
+            [
+                "8a1fffdcef299825"
+            ]
+        ]
+    },
+    {
+        "id": "227641b9ebdd0aa5",
+        "type": "ui_button",
+        "z": "e94530b68dd433d2",
+        "name": "",
+        "group": "bc933852deb5a63c",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "On",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 450,
+        "y": 360,
+        "wires": [
+            [
+                "8a1fffdcef299825"
+            ]
+        ]
+    },
+    {
+        "id": "7bb3dc4ce65da657",
+        "type": "ui_button",
+        "z": "e94530b68dd433d2",
+        "name": "",
+        "group": "0f49d116d75c5231",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Off",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "0",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 450,
+        "y": 440,
+        "wires": [
+            [
+                "8a1fffdcef299825"
+            ]
+        ]
+    },
+    {
+        "id": "8a1fffdcef299825",
+        "type": "rpi-gpio out",
+        "z": "e94530b68dd433d2",
+        "name": "bzar",
+        "pin": "18",
+        "set": "",
+        "level": "0",
+        "freq": "10",
+        "out": "pwm",
+        "bcm": true,
+        "x": 850,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "68468a4a0b8f9822",
+        "type": "ui_text",
+        "z": "8df5e78e63b45f8c",
+        "group": "f658a43e29d7f01a",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Status",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1050,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "f3432f29b8417d86",
+        "type": "ui_button",
+        "z": "8df5e78e63b45f8c",
+        "name": "",
+        "group": "f658a43e29d7f01a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "btnOn",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "On",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 570,
+        "y": 240,
+        "wires": [
+            [
+                "94cb548c113b6874"
+            ]
+        ]
+    },
+    {
+        "id": "9293a060a76341ca",
+        "type": "rpi-gpio out",
+        "z": "8df5e78e63b45f8c",
+        "name": "",
+        "pin": "12",
+        "set": "",
+        "level": "0",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 1220,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "bbb3629ee309e056",
+        "type": "inject",
+        "z": "8df5e78e63b45f8c",
+        "name": "1ststatus",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 120,
+        "y": 580,
+        "wires": [
+            [
+                "9293a060a76341ca",
+                "5cbf7e2f0b5ca41c",
+                "f3432f29b8417d86"
+            ]
+        ]
+    },
+    {
+        "id": "5cbf7e2f0b5ca41c",
+        "type": "ui_button",
+        "z": "8df5e78e63b45f8c",
+        "name": "",
+        "group": "f658a43e29d7f01a",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "btnOff",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "Off",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 570,
+        "y": 380,
+        "wires": [
+            [
+                "94cb548c113b6874"
+            ]
+        ]
+    },
+    {
+        "id": "94cb548c113b6874",
+        "type": "switch",
+        "z": "8df5e78e63b45f8c",
+        "name": "OnorOff",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "On",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Off",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 780,
+        "y": 340,
+        "wires": [
+            [
+                "68468a4a0b8f9822",
+                "b28f16d3beba3343"
+            ],
+            [
+                "dabe18c6be09c18b",
+                "68468a4a0b8f9822"
+            ]
+        ]
+    },
+    {
+        "id": "b28f16d3beba3343",
+        "type": "change",
+        "z": "8df5e78e63b45f8c",
+        "name": "Onto1",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "1",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1170,
+        "y": 340,
+        "wires": [
+            [
+                "9293a060a76341ca"
+            ]
+        ]
+    },
+    {
+        "id": "dabe18c6be09c18b",
+        "type": "change",
+        "z": "8df5e78e63b45f8c",
+        "name": "Offto0",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1130,
+        "y": 420,
+        "wires": [
+            [
+                "9293a060a76341ca"
+            ]
+        ]
+    },
+    {
+        "id": "21cb911052f74b74",
+        "type": "inject",
+        "z": "8df5e78e63b45f8c",
+        "name": "1ststatus",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "str",
+        "x": 840,
+        "y": 120,
+        "wires": [
+            [
+                "68468a4a0b8f9822"
+            ]
+        ]
+    },
+    {
+        "id": "1b0936970f27350f",
+        "type": "rpi-gpio in",
+        "z": "08fc35a1206eb95f",
+        "name": "",
+        "pin": "12",
+        "intype": "tri",
+        "debounce": "25",
+        "read": false,
+        "bcm": true,
+        "x": 210,
+        "y": 240,
+        "wires": [
+            [
+                "47f467d5f3bd9234",
+                "4b3512b7b12a0530"
+            ]
+        ]
+    },
+    {
+        "id": "47f467d5f3bd9234",
+        "type": "switch",
+        "z": "08fc35a1206eb95f",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 390,
+        "y": 240,
+        "wires": [
+            [
+                "34769804e4376025"
+            ],
+            [
+                "127caab76de59773"
+            ]
+        ]
+    },
+    {
+        "id": "34769804e4376025",
+        "type": "change",
+        "z": "08fc35a1206eb95f",
+        "name": "push",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "You pushed button",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 590,
+        "y": 160,
+        "wires": [
+            [
+                "a522e52ee896f2e0"
+            ]
+        ]
+    },
+    {
+        "id": "127caab76de59773",
+        "type": "change",
+        "z": "08fc35a1206eb95f",
+        "name": "release",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "You released button",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 280,
+        "wires": [
+            [
+                "a522e52ee896f2e0"
+            ]
+        ]
+    },
+    {
+        "id": "a522e52ee896f2e0",
+        "type": "ui_text",
+        "z": "08fc35a1206eb95f",
+        "group": "80ffd3480b49b746",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 830,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "4b3512b7b12a0530",
+        "type": "debug",
+        "z": "08fc35a1206eb95f",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 360,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "07db31973302cb93",
+        "type": "grove-ultrasonic-ranger",
+        "z": "ddfff142978b6b05",
+        "name": "",
+        "port_number": "18",
+        "x": 470,
+        "y": 240,
+        "wires": [
+            [
+                "23592a67d8262737",
+                "e726a6f495532792"
+            ]
+        ]
+    },
+    {
+        "id": "c0e63b902cbc1aec",
+        "type": "inject",
+        "z": "ddfff142978b6b05",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 150,
+        "y": 240,
+        "wires": [
+            [
+                "07db31973302cb93"
+            ]
+        ]
+    },
+    {
+        "id": "23592a67d8262737",
+        "type": "debug",
+        "z": "ddfff142978b6b05",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 760,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "e726a6f495532792",
+        "type": "ui_gauge",
+        "z": "ddfff142978b6b05",
+        "name": "",
+        "group": "6614e08e063bda20",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 750,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "3b3a348d282370fb",
+        "type": "rpi-dht22",
+        "z": "a36f3069439e8e42",
+        "name": "",
+        "topic": "rpi-dht22",
+        "dht": "11",
+        "pintype": "0",
+        "pin": "5",
+        "x": 380,
+        "y": 180,
+        "wires": [
+            [
+                "d6deb4d57ab82229"
+            ]
+        ]
+    },
+    {
+        "id": "c9fcc21af99c0165",
+        "type": "inject",
+        "z": "a36f3069439e8e42",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "",
+                "vt": "num"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 110,
+        "y": 160,
+        "wires": [
+            [
+                "3b3a348d282370fb"
+            ]
+        ]
+    },
+    {
+        "id": "bfbe3b8a6f2be18e",
+        "type": "debug",
+        "z": "a36f3069439e8e42",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "d6deb4d57ab82229",
+        "type": "function",
+        "z": "a36f3069439e8e42",
+        "name": "function 1",
+        "func": "msg.payload = msg.humidity;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 300,
+        "wires": [
+            [
+                "bfbe3b8a6f2be18e"
+            ]
+        ]
+    },
+    {
+        "id": "78ea0b9a66b2b03d",
+        "type": "function",
+        "z": "781e2b05d1014082",
+        "name": "配列に格納",
+        "func": "if (!context.global.array) {\t\t//グローバル変数arrayが存在していないなら\n    context.global.array = [];\t//グローバル変数arrayの作成。未定義データが入るのを防ぐため、空配列(要素のない配列)する\n}\n\nconst MAX_LENGTH = 5;\nif (context.global.array.length >= MAX_LENGTH) {\t\t//array配列に5つ以上のデータが入っているとき\n    context.global.array.shift();\t\t\t\t\t\t\t\t\t\t//array配列の先頭要素を削除\n}\n\ncontext.global.array.push(msg.payload);\t\t\t\t\t\t//配列の一番後ろに今のデータの要素を入れる\n\n    msg.array = context.global.array;\nmsg.length = context.global.array.length;\t\t\t\t\t\t//array配列の長さを入れる\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 120,
+        "wires": [
+            [
+                "e5d1d6a6e5c5e63d",
+                "c4470ba38f1bed8e"
+            ]
+        ]
+    },
+    {
+        "id": "e5d1d6a6e5c5e63d",
+        "type": "function",
+        "z": "781e2b05d1014082",
+        "name": "平均の取得",
+        "func": "let sum = 0;\n    let average = 0;\nfor (let i = 0; i < msg.length; i++) {\n    sum = sum + msg.array[i];\t\t\t\t\t//arayy配列の要素をすべて足す\n}\nmsg.sum = sum;\naverage = sum / msg.length;\t\t\t\t//平均を求める\nmsg.average = average;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 240,
+        "wires": [
+            [
+                "3a3d4e8cd9bdd351",
+                "92c09b94c607743d"
+            ]
+        ]
+    },
+    {
+        "id": "c4470ba38f1bed8e",
+        "type": "debug",
+        "z": "781e2b05d1014082",
+        "name": "配列の要素",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "array",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 810,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "3a3d4e8cd9bdd351",
+        "type": "debug",
+        "z": "781e2b05d1014082",
+        "name": "合計値",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "sum",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 830,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "92c09b94c607743d",
+        "type": "debug",
+        "z": "781e2b05d1014082",
+        "name": "平均値",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "average",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 830,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "5dfe40a38643766b",
+        "type": "grove-ultrasonic-ranger",
+        "z": "781e2b05d1014082",
+        "name": "",
+        "port_number": 5,
+        "x": 330,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a567aee177c6747d",
+        "type": "inject",
+        "z": "781e2b05d1014082",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "",
+                "vt": "num"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 90,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9ffe3e702615a3cb",
+        "type": "mqtt in",
+        "z": "874ea218beb217dd",
+        "name": "",
+        "topic": "test/data",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "6447cf5152deb4bf",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 180,
+        "y": 260,
+        "wires": [
+            [
+                "cf8d6084639ec149"
+            ]
+        ]
+    },
+    {
+        "id": "cf8d6084639ec149",
+        "type": "debug",
+        "z": "874ea218beb217dd",
+        "name": "debug 16",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "2b8e943d949d9b13",
+        "type": "inject",
+        "z": "ba8f1ff1455046b1",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "",
+                "vt": "num"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 110,
+        "y": 180,
+        "wires": [
+            [
+                "ffa3aa3fa4e91eed"
+            ]
+        ]
+    },
+    {
+        "id": "9399b977611d4ec2",
+        "type": "function",
+        "z": "ba8f1ff1455046b1",
+        "name": "function 2",
+        "func": "let data = {\n        \"ts\":Date.now(),\n        \"category\":\"distance\",\n        \"value\": Math.floor(msg.payload * 10) / 10\n}\nmsg.payload = data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 180,
+        "wires": [
+            [
+                "741ca370e0d1e445"
+            ]
+        ]
+    },
+    {
+        "id": "6170cf970a983cf0",
+        "type": "debug",
+        "z": "ba8f1ff1455046b1",
+        "name": "debug 17",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 980,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "741ca370e0d1e445",
+        "type": "addFirebase",
+        "z": "ba8f1ff1455046b1",
+        "firebaseCertificate": "1d81882c7d20ef0f",
+        "client_email": "",
+        "private_key": "",
+        "data": "",
+        "childpath": "stations/st001/data",
+        "propertyType": "str",
+        "method": "push",
+        "newchildpath": "",
+        "x": 790,
+        "y": 180,
+        "wires": [
+            [
+                "6170cf970a983cf0"
+            ]
+        ]
+    },
+    {
+        "id": "ffa3aa3fa4e91eed",
+        "type": "grove-ultrasonic-ranger",
+        "z": "ba8f1ff1455046b1",
+        "name": "",
+        "port_number": 5,
+        "x": 390,
+        "y": 180,
+        "wires": [
+            [
+                "9399b977611d4ec2"
+            ]
+        ]
+    },
+    {
+        "id": "c20af190dd9a0331",
+        "type": "inject",
+        "z": "72c11bc9fc25aed7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "",
+                "vt": "num"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "num",
+        "x": 70,
+        "y": 60,
+        "wires": [
+            [
+                "21d4b627a7446568",
+                "80f382ef78be2444",
+                "2d7e16a36a90494a"
+            ]
+        ]
+    },
+    {
+        "id": "2d7e16a36a90494a",
+        "type": "grove-ultrasonic-ranger",
+        "z": "72c11bc9fc25aed7",
+        "name": "sound",
+        "port_number": "18",
+        "x": 90,
+        "y": 220,
+        "wires": [
+            [
+                "dd92337b425af5b3"
+            ]
+        ]
+    },
+    {
+        "id": "80f382ef78be2444",
+        "type": "grove-light-sensor-v1_2",
+        "z": "72c11bc9fc25aed7",
+        "name": "light",
+        "port_number": "2",
+        "x": 90,
+        "y": 180,
+        "wires": [
+            [
+                "1698c53005425fe5"
+            ]
+        ]
+    },
+    {
+        "id": "15048cfd3820eda1",
+        "type": "debug",
+        "z": "72c11bc9fc25aed7",
+        "name": "debug 19",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 360,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "50aadca37041acdd",
+        "type": "ui_button",
+        "z": "72c11bc9fc25aed7",
+        "name": "sttStopRec",
+        "group": "af9995aa649c5924",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "button",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 90,
+        "y": 500,
+        "wires": [
+            [
+                "7cbb7ca074e090cb"
+            ]
+        ]
+    },
+    {
+        "id": "992c77a82751e9c1",
+        "type": "debug",
+        "z": "72c11bc9fc25aed7",
+        "name": "debug 18",
+        "active": true,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": true,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 890,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "7fa037661d25fae5",
+        "type": "join",
+        "z": "72c11bc9fc25aed7",
+        "name": "",
+        "mode": "custom",
+        "build": "object",
+        "property": "payload",
+        "propertyType": "msg",
+        "key": "topic",
+        "joiner": "\\n",
+        "joinerType": "str",
+        "useparts": true,
+        "accumulate": false,
+        "timeout": "10",
+        "count": "4",
+        "reduceRight": false,
+        "reduceExp": "",
+        "reduceInit": "",
+        "reduceInitType": "num",
+        "reduceFixup": "",
+        "x": 530,
+        "y": 20,
+        "wires": [
+            [
+                "ab75e78535b52a91"
+            ]
+        ]
+    },
+    {
+        "id": "b11ded2dbacbbdae",
+        "type": "change",
+        "z": "72c11bc9fc25aed7",
+        "name": "temperature",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "temperature",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 290,
+        "y": 100,
+        "wires": [
+            [
+                "7fa037661d25fae5"
+            ]
+        ]
+    },
+    {
+        "id": "1698c53005425fe5",
+        "type": "change",
+        "z": "72c11bc9fc25aed7",
+        "name": "light",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "light",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 270,
+        "y": 180,
+        "wires": [
+            [
+                "7fa037661d25fae5"
+            ]
+        ]
+    },
+    {
+        "id": "dd92337b425af5b3",
+        "type": "change",
+        "z": "72c11bc9fc25aed7",
+        "name": "sound",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "sound",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 270,
+        "y": 220,
+        "wires": [
+            [
+                "7fa037661d25fae5"
+            ]
+        ]
+    },
+    {
+        "id": "bcc1db7b1f4bf2cf",
+        "type": "change",
+        "z": "72c11bc9fc25aed7",
+        "name": "humidity",
+        "rules": [
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "humidity",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "humidity",
+                "pt": "msg",
+                "to": "humidity",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 280,
+        "y": 140,
+        "wires": [
+            [
+                "7fa037661d25fae5"
+            ]
+        ]
+    },
+    {
+        "id": "21d4b627a7446568",
+        "type": "rpi-dht22",
+        "z": "72c11bc9fc25aed7",
+        "name": "",
+        "topic": "rpi-dht22",
+        "dht": "11",
+        "pintype": "0",
+        "pin": "16",
+        "x": 100,
+        "y": 140,
+        "wires": [
+            [
+                "5921f47ce1ea6b76"
+            ]
+        ]
+    },
+    {
+        "id": "a52af55e06fb1178",
+        "type": "rpi-gpio in",
+        "z": "72c11bc9fc25aed7",
+        "name": "",
+        "pin": "23",
+        "intype": "up",
+        "debounce": "25",
+        "read": true,
+        "bcm": true,
+        "x": 80,
+        "y": 560,
+        "wires": [
+            [
+                "7cbb7ca074e090cb"
+            ]
+        ]
+    },
+    {
+        "id": "2311ea727cd770ba",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "aftStop",
+        "func": "// ----------------------------------------------------\n// (A) 記録終了処理と快適度スコア計算\n// ----------------------------------------------------\n\n// 記録状態をfalseに設定\nglobal.set('is_recording', false);\n\n// 記録の終了時刻を取得し、グローバル変数に保存\nconst stopTime = Date.now();\nglobal.set('stop_time', stopTime);\nconst startTime = global.get('start_time');\nconst elapsedTimeMinutes = Math.floor((stopTime - startTime) / 60000);\n\n// グローバル変数から記録されたデータ配列を取得 (キー名を统一)\nconst recordedData = global.get('recordedData') || [];\n\n// 快適さの指標（スコア）の計算ロジック\nlet comfortScoreTotal = 0;\nlet validRecords = 0;\n\nrecordedData.forEach(record => {\n    let intervalScore = 0;\n    const temp = parseFloat(record.temperature);\n    const light = parseFloat(record.light);\n    const sound = parseFloat(record.sound);\n    const humidity = parseFloat(record.humidity);\n\n    if (!isNaN(temp) && !isNaN(light) && !isNaN(sound) && !isNaN(humidity)) {\n        if (temp >= 24 && temp <= 30) intervalScore += 3;\n        if (humidity >= 40 && humidity <= 60) intervalScore += 2;\n        if (light >= 400 && light <= 700) intervalScore += 2;\n        if (sound < 10) intervalScore += 3;\n        comfortScoreTotal += intervalScore;\n        validRecords++;\n    }\n});\n\nconst averageComfortScore = validRecords > 0 ? (comfortScoreTotal / validRecords) : 0;\n\n// ----------------------------------------------------\n// (B) データ構造の作成とファイル名生成\n// ----------------------------------------------------\n\n// 最終レポートデータ\nconst report = {\n    totalTimeMinutes: Math.max(0, elapsedTimeMinutes),\n    avgComfortScore: averageComfortScore.toFixed(2),\n    records: recordedData\n};\n\n// タイムスタンプからファイル名を生成\nconst now = new Date(stopTime);\nconst timestampStr = now.getFullYear().toString() +\n    (now.getMonth() + 1).toString().padStart(2, '0') +\n    now.getDate().toString().padStart(2, '0') + '_' +\n    now.getHours().toString().padStart(2, '0') +\n    now.getMinutes().toString().padStart(2, '0') +\n    now.getSeconds().toString().padStart(2, '0');\nconst filename = `record_${timestampStr}.json`;\n// フルパスを指定（ファイル保存ノードで使う）\nconst fullFilePath = `/home/it25/.node-red/yutoriru_records/${filename}`;\n// インデックス用の相対パス\nconst relativeFilePath = `yutoriru_records/${filename}`;\n\n// メタデータ\nconst metadata = {\n    id: timestampStr,\n    filename: filename,\n    filePath: relativeFilePath,\n    startTime: startTime,\n    stopTime: stopTime,\n    avgComfortScore: report.avgComfortScore,\n    totalTimeMinutes: report.totalTimeMinutes\n};\n\n// ----------------------------------------------------\n// (C) メッセージ送信とLED制御\n// ----------------------------------------------------\n\n// LED点滅タイマーを停止\nconst ledIntervalId = global.get('led_timer_id');\nif (ledIntervalId) {\n    clearInterval(ledIntervalId);\n    global.set('led_timer_id', null);\n}\n\n// 出力1: 全期間グラフ表示用\nconst chartMsg = { payload: report };\n\n// 出力2: ファイル保存用 (filenameプロパティにフルパスを設定)\nconst fileSaveMsg = { payload: JSON.stringify(report, null, 2), filename: fullFilePath };\n\n// 出力3: メタデータ更新用\nconst metadataMsg = { payload: metadata };\n\n// 出力4: LED OFF制御用 (出力ポートが4つある前提)\nconst ledOffMsg = { payload: 1, topic: \"LED_CONTROL\" }; // 1=OFFの場合\n\nnode.warn(`Recording stopped. Total records: ${recordedData.length}. Avg Score: ${report.avgComfortScore}`);\n\n// 各出力ポートにメッセージを送信\nreturn [chartMsg, fileSaveMsg, metadataMsg, ledOffMsg];",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 280,
+        "y": 740,
+        "wires": [
+            [
+                "cde708705c1806a4",
+                "2f357262f0611ec5",
+                "4fef097cb394e0c6",
+                "b42865929bca9592",
+                "473d7d0359567711"
+            ],
+            [
+                "91235782869684d8",
+                "66b66d54325bc62f"
+            ],
+            [
+                "50bf0eccf1de25e3"
+            ],
+            [
+                "82cb600235ab3e4b"
+            ]
+        ]
+    },
+    {
+        "id": "d3b6317a2a455605",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "aftStart",
+        "func": "// aftStart ノードの修正後コード\n\n// 記録用の配列を初期化\nglobal.set('recorded_data', []); \n\n// 記録開始時刻をグローバル変数に保存\nglobal.set('start_time', Date.now());\n\n// 記録状態をtrueに設定\nglobal.set('is_recording', true);\n\n// 記録中を示すLED点滅タイマーを開始\n// 500ms（0.5秒）ごとに、LEDの状態をトグルする信号を送信する\nconst ledIntervalId = setInterval(function() {\n    // グローバル変数を使って、現在のLEDの状態をトグル（0か1を反転）\n    let ledState = global.get('led_state') || 0;\n    ledState = ledState === 0 ? 1 : 0; // ON/OFFを反転\n    global.set('led_state', ledState);\n\n    // 制御メッセージを送信 (GPIOノードの入力に接続したワイヤーに送る)\n    // GPIOノードのpinを適切に設定してください (例: GPIO23は出力用LEDとして利用)\n    node.send([null, { payload: ledState, topic: \"LED_CONTROL\" }]); // 出力2へメッセージを送信\n}, 500); \n\n// グラフのリセットメッセージを送信\n// 各ui_chartノードの入力に接続する\nconst resetMsg = { payload: [], ui_control: { type: 'clear' } }; // ui_chartをクリアするコマンド\nnode.send([null, resetMsg, resetMsg, resetMsg, resetMsg]); // 例として5つのグラフがある場合\n// 必要に応じて、chartノードの数だけresetMsgをnode.sendの配列に追加してください。\n// 例：[null, resetMsg, resetMsg, resetMsg, resetMsg, resetMsg] (6個のグラフがある場合)\n\n// タイマーIDをグローバルに保存し、aftStopで停止できるようにする\nglobal.set('led_timer_id', ledIntervalId);\n\nnode.warn(\"Recording started!\");\n\n// デバッグ用に、グローバル変数の内容を直接デバッグタブに出力する\n// ここで`recorded_data`が未定義エラーになっている可能性があるので、\n// 以下の行を削除するか、単に`node.warn(\"recorded_data initialized.\");`のように変更します。\n// node.warn(global.get('recorded_data')); // この行でエラーが発生している可能性が高いです。\n// 通常、初期化直後は空の配列なので、特に表示する必要がないかもしれません。\n// もし表示したい場合は、このようにします:\nnode.warn(\"Recorded data initialized: \" + JSON.stringify(global.get('recorded_data')));\n\n\n// このノードでメッセージを直接フローに送る必要がある場合（例: LED制御のため）\n// 出力1はメインフロー（ここでは`switch`ノードの`start`）、出力2はLED制御用\n// 今回のaftStartのwiresは出力1が空、出力2が'82cb600235ab3e4b' (rpi-gpio out)なので、\n// `node.send([null, { payload: ledState, topic: \"LED_CONTROL\" }]);` の2番目の出力が\n// rpi-gpio outノードに到達するようにする必要があります。\n// 次のノード（デバッグノードなど）にメッセージを送る\nreturn { payload: \"Recording Started\", topic: \"status\" };",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 560,
+        "wires": [
+            [
+                "229e6814fc4e0fed"
+            ],
+            [
+                "82cb600235ab3e4b"
+            ],
+            [
+                "e04e43df0996800d",
+                "dd9eb827aff65675",
+                "7b770535108e1e21",
+                "7df28e41f90eaca1"
+            ]
+        ]
+    },
+    {
+        "id": "ca5dea84516cc5aa",
+        "type": "switch",
+        "z": "72c11bc9fc25aed7",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "start",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "stop",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 130,
+        "y": 700,
+        "wires": [
+            [
+                "d3b6317a2a455605"
+            ],
+            [
+                "2311ea727cd770ba"
+            ]
+        ]
+    },
+    {
+        "id": "ed4193a28a1e0324",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "dataPush",
+        "func": "// グローバル変数から記録データ配列を取得\nlet recordedData = global.get('recorded_data') || [];\n\n// joinノードから渡された統合済みのメッセージを取得\nconst combinedData = msg.payload;\n\n// 最新のセンサーデータを配列にプッシュ\n// 以前のデバッグでtemperatureのキーが\"temperarture\"になっている可能性があったため、両方に対応\nconst latestData = {\n    timestamp: Date.now(),\n    temperature: combinedData.temperature !== undefined ? parseFloat(combinedData.temperature) : undefined,\n    humidity: combinedData.humidity !== undefined ? parseFloat(combinedData.humidity) : undefined,\n    light: combinedData.light !== undefined ? parseFloat(combinedData.light) : undefined,\n    sound: combinedData.sound !== undefined ? parseFloat(combinedData.sound) : undefined\n};\nrecordedData.push(latestData);\n\n// 更新された配列をグローバル変数に保存\nglobal.set('recorded_data', recordedData);\n\n// このノードからはメッセージを後続に渡さない（グローバル変数への保存が目的のため）\nreturn null;",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 180,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "7cbb7ca074e090cb",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "reverseStatus",
+        "func": "// reverseStatusノードのコード\n\n// グローバル変数から現在の記録状態を取得（キー名は 'is_recording'）\nlet is_recording = global.get('is_recording') || false;\n\n// 状態を反転させるロジック\nif (is_recording) {\n    // 記録中(true)だった場合 -> 停止(false)へ\n    // ここでグローバル変数を更新する必要はありません。\n    // aftStopノードが処理の中で更新するからです。\n    msg.payload = \"stop\"; // 'stop' メッセージを送信\n    node.status({fill:\"red\", shape:\"dot\", text:\"Stopping...\"});\n} else {\n    // 停止中(false)だった場合 -> 記録開始(true)へ\n    // ここでグローバル変数を更新する必要はありません。\n    // aftStartノードが処理の中で更新するからです。\n    msg.payload = \"start\"; // 'start' メッセージを送信\n    node.status({fill:\"green\", shape:\"dot\", text:\"Starting...\"});\n}\n\n// switchノードへメッセージを送信\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 140,
+        "y": 640,
+        "wires": [
+            [
+                "ca5dea84516cc5aa",
+                "c35caa176ea9da0b"
+            ]
+        ]
+    },
+    {
+        "id": "91235782869684d8",
+        "type": "debug",
+        "z": "72c11bc9fc25aed7",
+        "name": "debug 20",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 660,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "e8dcec5d55cb4c0c",
+        "type": "switch",
+        "z": "72c11bc9fc25aed7",
+        "name": "",
+        "property": "is_recording",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 570,
+        "y": 140,
+        "wires": [
+            [
+                "ed4193a28a1e0324",
+                "59fe68df61ba6f96"
+            ]
+        ]
+    },
+    {
+        "id": "6116d9ed9594c5ce",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "formatTemp",
+        "func": "// formatTemp ノードのコード\n\nconst recordedData = global.get('recorded_data');\nif (!recordedData || recordedData.length === 0) {\n    return null;\n}\nconst latestData = recordedData[recordedData.length - 1];\n\n// 【修正箇所】キー名を 'temperarture' に合わせるか、 'temperature' に修正する\n// 仮に 'temperature' が正しいと仮定し、データの存在を確認しながら処理する\n\n// ★★★ 暫定的なキー名アクセスをテストするための修正 ★★★\nconst tempValue = latestData.temperature || latestData.temperarture;\nif (tempValue === undefined) {\n    msg.payload = \"Error: Temp Key Not Found\";\n} else {\n    msg.payload = `${parseFloat(tempValue).toFixed(2)} °C`;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 240,
+        "wires": [
+            [
+                "8c842fcd2b6c6ef2"
+            ]
+        ]
+    },
+    {
+        "id": "8c842fcd2b6c6ef2",
+        "type": "ui_text",
+        "z": "72c11bc9fc25aed7",
+        "group": "2fd74b16110c1e93",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Temperature",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 970,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "98338b365ea2377e",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "formatLight",
+        "func": "// 記録用配列に追加された最新のデータを取り出す（ここでは msg.payload は使わない）\nconst recordedData = global.get('recorded_data');\nif (!recordedData || recordedData.length === 0) {\n    return null;\n}\nconst latestData = recordedData[recordedData.length - 1];\n\n// 表示用のペイロードに設定\nmsg.payload = `${latestData.light} lxs`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 810,
+        "y": 320,
+        "wires": [
+            [
+                "6a4ad3a4ebfc91ca"
+            ]
+        ]
+    },
+    {
+        "id": "f298e672103339e2",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "formatSound",
+        "func": "// 記録用配列に追加された最新のデータを取り出す（ここでは msg.payload は使わない）\nconst recordedData = global.get('recorded_data');\nif (!recordedData || recordedData.length === 0) {\n    return null;\n}\nconst latestData = recordedData[recordedData.length - 1];\n\n// 表示用のペイロードに設定\nmsg.payload = `${latestData.sound} Hz`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 360,
+        "wires": [
+            [
+                "54e202de29b66602"
+            ]
+        ]
+    },
+    {
+        "id": "6a4ad3a4ebfc91ca",
+        "type": "ui_text",
+        "z": "72c11bc9fc25aed7",
+        "group": "2fd74b16110c1e93",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Light",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1010,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "54e202de29b66602",
+        "type": "ui_text",
+        "z": "72c11bc9fc25aed7",
+        "group": "2fd74b16110c1e93",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Sound",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1010,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "ab75e78535b52a91",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "spritter&Dataprep",
+        "func": "// 出力1: 記録フローへ渡すメッセージ (記録の判定と格納に使用)\n// 出力2: リアルタイム表示ノードへ渡すメッセージ (表示のみに使用)\n\nconst messageForRecording = {\n    payload: msg.payload, // 統合されたセンサーデータ\n    topic: \"data_for_push\"\n};\n\nconst messageForDisplay = {\n    payload: msg.payload, // 統合されたセンサーデータ\n    topic: \"data_for_display\"\n};\n\n// 出力1と出力2にそれぞれメッセージを送信\nreturn [messageForRecording, messageForDisplay];",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 80,
+        "wires": [
+            [
+                "e8dcec5d55cb4c0c"
+            ],
+            [
+                "98338b365ea2377e",
+                "f298e672103339e2",
+                "3b2198dad4e383d5",
+                "f9e4549a4cbcdd15",
+                "0dc1c4769a86f403",
+                "417896298ec7ce76",
+                "c8453c7f02fd175f"
+            ]
+        ]
+    },
+    {
+        "id": "229e6814fc4e0fed",
+        "type": "debug",
+        "z": "72c11bc9fc25aed7",
+        "name": "debug 21",
+        "active": true,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": true,
+        "complete": "is_recording",
+        "targetType": "msg",
+        "statusVal": "is_recording",
+        "statusType": "auto",
+        "x": 310,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "5921f47ce1ea6b76",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "separateCelHum",
+        "func": "// rpi-dht22ノードからのメッセージを受け取る\n\nconst temp = msg.payload; // 温度の値がmsg.payloadにある (絶対基準)\nconst humid = msg.humidity; // 湿度の値がmsg.humidityにある (絶対基準)\n\n// ----------------------------------------------------\n// 出力1: 温度メッセージ\n// ----------------------------------------------------\nconst tempMsg = { payload: temp };\ntempMsg.topic = \"temperature\";\n\n// ----------------------------------------------------\n// 出力2: 湿度メッセージ\n// ----------------------------------------------------\nconst humidMsg = { payload: humid };\nhumidMsg.topic = \"humidity\";\n\n// 2つのメッセージを次のノードへ送信 (それぞれのポートへ)\nreturn [tempMsg, humidMsg];",
+        "outputs": 2,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 40,
+        "wires": [
+            [
+                "b11ded2dbacbbdae"
+            ],
+            [
+                "bcc1db7b1f4bf2cf"
+            ]
+        ]
+    },
+    {
+        "id": "3b2198dad4e383d5",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "formatHum",
+        "func": "// formatHumidity ノードのコード\n\nconst recordedData = global.get('recorded_data');\nif (!recordedData || recordedData.length === 0) {\n    return null;\n}\nconst latestData = recordedData[recordedData.length - 1];\n\n// 表示用のペイロードに設定\nmsg.payload = `${latestData.humidity} %`;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 810,
+        "y": 280,
+        "wires": [
+            [
+                "6c643e43ad292731"
+            ]
+        ]
+    },
+    {
+        "id": "6c643e43ad292731",
+        "type": "ui_text",
+        "z": "72c11bc9fc25aed7",
+        "group": "2fd74b16110c1e93",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Humidity",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 980,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "82cb600235ab3e4b",
+        "type": "rpi-gpio out",
+        "z": "72c11bc9fc25aed7",
+        "name": "",
+        "pin": "23",
+        "set": true,
+        "level": "1",
+        "freq": "",
+        "out": "out",
+        "bcm": true,
+        "x": 360,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "1db671fa4921b1b1",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Custom Settings Save",
+        "func": "// Custom Settings Save ノードのコード\nconst customValues = msg.payload;\n\nglobal.set('config_temp_min', parseFloat(customValues.temp_min));\nglobal.set('config_temp_max', parseFloat(customValues.temp_max));\nglobal.set('config_light_min', parseFloat(customValues.light_min));\nglobal.set('config_light_max', parseFloat(customValues.light_max));\nglobal.set('config_sound_max', parseFloat(customValues.sound_max));\nglobal.set('config_hum_max', parseFloat(customValues.hum_max));\nglobal.set('config_hum_max', parseFloat(customValues.hum_max));\n\nnode.warn(\"Custom settings saved.\");\n\nreturn null; // このノードからはメッセージを続行しない（デバッグ用以外）",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 160,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fafa6c8d1b9fedf4",
+        "type": "ui_form",
+        "z": "72c11bc9fc25aed7",
+        "name": "",
+        "label": "",
+        "group": "7a0c48f29687e693",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "temp_min",
+                "value": "",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "temp_max",
+                "value": "",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "light_min",
+                "value": "",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "light_max",
+                "value": "",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "sound_max",
+                "value": "",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "hum_min",
+                "value": "",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "hum_max",
+                "value": "",
+                "type": "number",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "topic",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "",
+        "x": 130,
+        "y": 820,
+        "wires": [
+            [
+                "1db671fa4921b1b1"
+            ]
+        ]
+    },
+    {
+        "id": "3b1688be6c6c8661",
+        "type": "ui_text",
+        "z": "72c11bc9fc25aed7",
+        "group": "2fd74b16110c1e93",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "comfortScore",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 570,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "cde708705c1806a4",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "avgComfortscore",
+        "func": "// Functionノード (例: \"Extract Comfort Score\" または \"avgComfortscore\") のコード\nlet report;\ntry {\n    // msg.payloadが既にオブジェクトの場合はパース不要、文字列ならパース\n    if (typeof msg.payload === 'string') {\n        report = JSON.parse(msg.payload);\n    } else if (typeof msg.payload === 'object' && msg.payload !== null) {\n        report = msg.payload;\n    } else {\n        // 想定外の型のメッセージが来た場合はエラーログを出力し、メッセージを停止\n        node.error(\"Invalid msg.payload type for comfort score extraction: \" + typeof msg.payload);\n        return null;\n    }\n} catch (e) {\n    // JSONパースに失敗した場合\n    node.error(\"Failed to parse JSON for comfort score: \" + e.message, msg);\n    return null;\n}\n\n// レポートオブジェクトからavgComfortScoreを抽出\n// report.avgComfortScore は文字列としてフォーマットされているはず\nif (report && typeof report.avgComfortScore !== 'undefined') {\n    msg.payload = `平均快適度: ${report.avgComfortScore}`;\n} else {\n    msg.payload = \"スコア取得エラー\"; // スコアが見つからない場合のメッセージ\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 680,
+        "wires": [
+            [
+                "3b1688be6c6c8661"
+            ]
+        ]
+    },
+    {
+        "id": "f9e4549a4cbcdd15",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Format for Temp Chart",
+        "func": "// msg.payload は { temperature: ..., humidity: ..., light: ..., sound: ... } の形式\nif (msg.payload && typeof msg.payload.temperature !== 'undefined') {\n    msg.payload = parseFloat(msg.payload.temperature); // 温度値のみを抽出\n    msg.topic = \"温度：°C\"; // グラフの凡例に表示されるシリーズ名\n    return msg;\n}\nreturn null; // 温度データがない場合はメッセージを停止",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 20,
+        "wires": [
+            [
+                "6116d9ed9594c5ce",
+                "7df28e41f90eaca1"
+            ]
+        ]
+    },
+    {
+        "id": "7df28e41f90eaca1",
+        "type": "ui_chart",
+        "z": "72c11bc9fc25aed7",
+        "name": "tempChart",
+        "group": "2fd74b16110c1e93",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "label": "TemperatureChart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0°",
+        "ymax": "40°",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 610,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7b770535108e1e21",
+        "type": "ui_chart",
+        "z": "72c11bc9fc25aed7",
+        "name": "humChart",
+        "group": "2fd74b16110c1e93",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "label": "HumidityChart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "20",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 600,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dd9eb827aff65675",
+        "type": "ui_chart",
+        "z": "72c11bc9fc25aed7",
+        "name": "LightChart",
+        "group": "2fd74b16110c1e93",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "label": "LightChart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "1000",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 610,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e04e43df0996800d",
+        "type": "ui_chart",
+        "z": "72c11bc9fc25aed7",
+        "name": "SoundChart",
+        "group": "2fd74b16110c1e93",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "label": "SoundChart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "700",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 590,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0dc1c4769a86f403",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Format for Hum Chart",
+        "func": "if (msg.payload && typeof msg.payload.humidity !== 'undefined') {\n    msg.payload = parseFloat(msg.payload.humidity);\n    msg.topic = \"湿度：%\";\n    return msg;\n}\nreturn null;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 60,
+        "wires": [
+            [
+                "7b770535108e1e21"
+            ]
+        ]
+    },
+    {
+        "id": "417896298ec7ce76",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Format for Light Chart",
+        "func": "if (msg.payload && typeof msg.payload.light !== 'undefined') {\n    msg.payload = parseFloat(msg.payload.light);\n    msg.topic = \"光量：lxs\";\n    return msg;\n}\nreturn null;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 100,
+        "wires": [
+            [
+                "dd9eb827aff65675"
+            ]
+        ]
+    },
+    {
+        "id": "c8453c7f02fd175f",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Format for Sound Chart",
+        "func": "if (msg.payload && typeof msg.payload.sound !== 'undefined') {\n    msg.payload = parseFloat(msg.payload.sound);\n    msg.topic = \"音量：Hz\";\n    return msg;\n}\nreturn null;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 140,
+        "wires": [
+            [
+                "e04e43df0996800d"
+            ]
+        ]
+    },
+    {
+        "id": "db1ac49b2f6fe67e",
+        "type": "ui_text",
+        "z": "72c11bc9fc25aed7",
+        "group": "af9995aa649c5924",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "RecordingStatus",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 580,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "c35caa176ea9da0b",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "StatusMessage",
+        "func": "// Functionノード: Format Status Message\nif (msg.payload === \"start\") {\n    msg.payload = \"記録中...\";\n} else if (msg.payload === \"stop\") {\n    msg.payload = \"停止中\";\n} else {\n    msg.payload = \"初期状態\"; // 初回表示用\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 640,
+        "wires": [
+            [
+                "db1ac49b2f6fe67e"
+            ]
+        ]
+    },
+    {
+        "id": "2f357262f0611ec5",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Prepare Temp Chart Data",
+        "func": "// Prepare Temp Chart Data (および他のグラフ用Functionノードも同様に修正)\n// 例: Prepare Temp Chart Dataノードのコード\n\nlet report;\ntry {\n    if (typeof msg.payload === 'string') {\n        report = JSON.parse(msg.payload); \n    } else if (typeof msg.payload === 'object' && msg.payload !== null) {\n        report = msg.payload;\n    } else {\n        node.error(\"Invalid msg.payload type for chart data: \" + typeof msg.payload);\n        return null;\n    }\n} catch (e) {\n    node.error(\"Failed to parse JSON for chart data: \" + e.message, msg);\n    return null;\n}\n\nconst records = report.records;\n\nif (!records || records.length === 0) {\n    node.warn(\"No records found for chart: \" + report.avgComfortScore);\n    return null;\n}\n\n// ★★★ ここから修正 ★★★\n// ui_chartノードが期待する形式の msg.payload を構築する\nconst seriesName = \"温度：°C\"; // 各センサーに合わせて変更 (例: \"湿度\", \"光量\", \"音量\")\nconst dataPoints = [];\n\nrecords.forEach(record => {\n    if (typeof record.temperature !== 'undefined' && !isNaN(parseFloat(record.temperature))) { // 各センサーに合わせて変更 (例: record.humidity)\n        dataPoints.push({\n            x: record.timestamp,\n            y: parseFloat(record.temperature) // 各センサーに合わせて変更 (例: record.humidity)\n        });\n    }\n});\n\n// msg.payload に直接グラフデータを設定\nmsg.payload = [\n    {\n        \"series\": [seriesName],\n        \"data\": [dataPoints],\n        \"labels\": [\"時刻\"]\n    }\n];\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 460,
+        "wires": [
+            [
+                "cfa858c1b8a54734"
+            ]
+        ]
+    },
+    {
+        "id": "cfa858c1b8a54734",
+        "type": "ui_chart",
+        "z": "72c11bc9fc25aed7",
+        "name": "Temperature Summary Chart",
+        "group": "7ab89f6142958f2d",
+        "order": 1,
+        "width": "6",
+        "height": "4",
+        "label": "Temperature Summary Chart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "40",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 940,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9ffc034d183bf43d",
+        "type": "ui_chart",
+        "z": "72c11bc9fc25aed7",
+        "name": "Humidity Summary Chart",
+        "group": "7ab89f6142958f2d",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "label": "Humidity Summary Chart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "100",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 930,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1ef02d6b94101238",
+        "type": "ui_chart",
+        "z": "72c11bc9fc25aed7",
+        "name": "Light Summary Chart",
+        "group": "7ab89f6142958f2d",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "Light Summary Chart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "1000",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 940,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c0580ea7cb78e2f6",
+        "type": "ui_chart",
+        "z": "72c11bc9fc25aed7",
+        "name": "Sound Summary Chart",
+        "group": "7ab89f6142958f2d",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "label": "Sound Summary Chart",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "700",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 940,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4fef097cb394e0c6",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Prepare Hum Chart Data",
+        "func": "// Prepare Temp Chart Data (および他のグラフ用Functionノードも同様に修正)\n// 例: Prepare Temp Chart Dataノードのコード\n\nlet report;\ntry {\n    if (typeof msg.payload === 'string') {\n        report = JSON.parse(msg.payload);\n    } else if (typeof msg.payload === 'object' && msg.payload !== null) {\n        report = msg.payload;\n    } else {\n        node.error(\"Invalid msg.payload type for chart data: \" + typeof msg.payload);\n        return null;\n    }\n} catch (e) {\n    node.error(\"Failed to parse JSON for chart data: \" + e.message, msg);\n    return null;\n}\n\nconst records = report.records;\n\nif (!records || records.length === 0) {\n    node.warn(\"No records found for chart: \" + report.avgComfortScore);\n    return null;\n}\n\n// ★★★ ここから修正 ★★★\n// ui_chartノードが期待する形式の msg.payload を構築する\nconst seriesName = \"湿度：%\"; // 各センサーに合わせて変更 (例: \"湿度\", \"光量\", \"音量\")\nconst dataPoints = [];\n\nrecords.forEach(record => {\n    if (typeof record.temperature !== 'undefined' && !isNaN(parseFloat(record.temperature))) { // 各センサーに合わせて変更 (例: record.humidity)\n        dataPoints.push({\n            x: record.timestamp,\n            y: parseFloat(record.humidity) // 各センサーに合わせて変更 (例: record.humidity)\n        });\n    }\n});\n\n// msg.payload に直接グラフデータを設定\nmsg.payload = [\n    {\n        \"series\": [seriesName],\n        \"data\": [dataPoints],\n        \"labels\": [\"時刻\"]\n    }\n];\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 500,
+        "wires": [
+            [
+                "9ffc034d183bf43d"
+            ]
+        ]
+    },
+    {
+        "id": "b42865929bca9592",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Prepare Light Chart Data",
+        "func": "// Prepare Temp Chart Data (および他のグラフ用Functionノードも同様に修正)\n// 例: Prepare Temp Chart Dataノードのコード\n\nlet report;\ntry {\n    if (typeof msg.payload === 'string') {\n        report = JSON.parse(msg.payload); \n    } else if (typeof msg.payload === 'object' && msg.payload !== null) {\n        report = msg.payload;\n    } else {\n        node.error(\"Invalid msg.payload type for chart data: \" + typeof msg.payload);\n        return null;\n    }\n} catch (e) {\n    node.error(\"Failed to parse JSON for chart data: \" + e.message, msg);\n    return null;\n}\n\nconst records = report.records;\n\nif (!records || records.length === 0) {\n    node.warn(\"No records found for chart: \" + report.avgComfortScore);\n    return null;\n}\n\n// ★★★ ここから修正 ★★★\n// ui_chartノードが期待する形式の msg.payload を構築する\nconst seriesName = \"光量：lxs\"; // 各センサーに合わせて変更 (例: \"湿度\", \"光量\", \"音量\")\nconst dataPoints = [];\n\nrecords.forEach(record => {\n    if (typeof record.temperature !== 'undefined' && !isNaN(parseFloat(record.temperature))) { // 各センサーに合わせて変更 (例: record.humidity)\n        dataPoints.push({\n            x: record.timestamp,\n            y: parseFloat(record.light) // 各センサーに合わせて変更 (例: record.humidity)\n        });\n    }\n});\n\n// msg.payload に直接グラフデータを設定\nmsg.payload = [\n    {\n        \"series\": [seriesName],\n        \"data\": [dataPoints],\n        \"labels\": [\"時刻\"]\n    }\n];\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 670,
+        "y": 540,
+        "wires": [
+            [
+                "1ef02d6b94101238"
+            ]
+        ]
+    },
+    {
+        "id": "473d7d0359567711",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Prepare Sound Chart Data",
+        "func": "// Prepare Temp Chart Data (および他のグラフ用Functionノードも同様に修正)\n// 例: Prepare Temp Chart Dataノードのコード\n\nlet report;\ntry {\n    if (typeof msg.payload === 'string') {\n        report = JSON.parse(msg.payload); \n    } else if (typeof msg.payload === 'object' && msg.payload !== null) {\n        report = msg.payload;\n    } else {\n        node.error(\"Invalid msg.payload type for chart data: \" + typeof msg.payload);\n        return null;\n    }\n} catch (e) {\n    node.error(\"Failed to parse JSON for chart data: \" + e.message, msg);\n    return null;\n}\n\nconst records = report.records;\n\nif (!records || records.length === 0) {\n    node.warn(\"No records found for chart: \" + report.avgComfortScore);\n    return null;\n}\n\n// ★★★ ここから修正 ★★★\n// ui_chartノードが期待する形式の msg.payload を構築する\nconst seriesName = \"音量：Hz\"; // 各センサーに合わせて変更 (例: \"湿度\", \"光量\", \"音量\")\nconst dataPoints = [];\n\nrecords.forEach(record => {\n    if (typeof record.temperature !== 'undefined' && !isNaN(parseFloat(record.temperature))) { // 各センサーに合わせて変更 (例: record.humidity)\n        dataPoints.push({\n            x: record.timestamp,\n            y: parseFloat(record.sound) // 各センサーに合わせて変更 (例: record.humidity)\n        });\n    }\n});\n\n// msg.payload に直接グラフデータを設定\nmsg.payload = [\n    {\n        \"series\": [seriesName],\n        \"data\": [dataPoints],\n        \"labels\": [\"時刻\"]\n    }\n];\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 580,
+        "wires": [
+            [
+                "c0580ea7cb78e2f6"
+            ]
+        ]
+    },
+    {
+        "id": "50bf0eccf1de25e3",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Manage Record Index",
+        "func": "// fsモジュールをFunctionノードで利用できるようにする\n// Functionノードの「Setup」タブで「Global Context」にfsを追加\n// global.set('fs', require('fs'));\n// global.set('path', require('path'));\n// 上記の設定をFunctionノードの「On start」タブで行ってください\n// (Functionノードの右側のタブで「Setup」を選び、`On start`タブ内に記述)\n\n// Functionノードの外部でfs/pathを定義した場合\nconst fs = global.get('fs');\nconst path = global.get('path');\nconst process = global.get('process'); // ★この行を再度追加\n\nconst indexFilePath = path.join(process.env.HOME || process.env.USERPROFILE, '.node-red', 'yutoriru_records', 'record_index.json');\nconst newMetadata = msg.payload; // aftStopから受け取る新しいメタデータ\n\nlet indexRecords = [];\n\ntry {\n    // 既存のインデックスファイルを読み込む\n    if (fs.existsSync(indexFilePath)) {\n        const data = fs.readFileSync(indexFilePath, 'utf8');\n        indexRecords = JSON.parse(data);\n    }\n} catch (e) {\n    node.error(\"Failed to read or parse record_index.json: \" + e.message);\n    // エラー時も空の配列から開始\n}\n\n// 新しいメタデータを追加\n// 既存のレコードと同じIDのものが既に存在する場合は更新、なければ追加\nlet recordExists = false;\nfor (let i = 0; i < indexRecords.length; i++) {\n    if (indexRecords[i].id === newMetadata.id) {\n        indexRecords[i] = newMetadata; // 更新\n        recordExists = true;\n        break;\n    }\n}\nif (!recordExists) {\n    indexRecords.push(newMetadata); // 追加\n}\n\ntry {\n    // 更新されたインデックスをファイルに書き込む\n    fs.writeFileSync(indexFilePath, JSON.stringify(indexRecords, null, 2), 'utf8');\n    node.warn(`record_index.json updated with new record: ${newMetadata.id}`);\n} catch (e) {\n    node.error(\"Failed to write record_index.json: \" + e.message);\n}\n\nreturn null; // このノードからはメッセージを後続に流さない",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 1,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 480,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "59fe68df61ba6f96",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Accumulate Data",
+        "func": "// グローバル変数から、現在ため込んでいるデータを取得（なければ空配列）\nlet recordedData = global.get('recordedData') || [];\n\n// 記録中フラグ（is_recording）を確認\nif (global.get('is_recording')) {\n    // 記録中なので、データにタイムスタンプを付与\n    // （後で見やすいようにISO形式の文字列にします）\n    msg.payload.timestamp = new Date().toISOString();\n\n    // 配列にデータを追加\n    recordedData.push(msg.payload);\n\n    // 更新した配列をグローバル変数に保存\n    global.set('recordedData', recordedData);\n\n    // 【デバッグ用】正しく溜まっているか確認するログ（確認後削除OK）\n    // node.warn(\"データ蓄積中... 現在のデータ数: \" + recordedData.length);\n}\n\n// このノードはデータをため込むだけなので、何も出力しません\nreturn null;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 220,
+        "wires": [
+            [
+                "dc64d8a35160e358",
+                "15048cfd3820eda1"
+            ]
+        ]
+    },
+    {
+        "id": "dc64d8a35160e358",
+        "type": "file",
+        "z": "72c11bc9fc25aed7",
+        "name": "Record",
+        "filename": "\"/home/it25/.node-red/yutoriru_records/record_\" & msg.metadata.id & \".json\"",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 420,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ba1eed6d4638b771",
+        "type": "function",
+        "z": "72c11bc9fc25aed7",
+        "name": "Prepare Data for Save",
+        "func": "// ため込んだデータを取得\nlet recordedData = global.get('recordedData') || [];\n\nif (recordedData.length > 0) {\n    // データをpayloadに設定\n    msg.payload = recordedData;\n    // ファイル名に使用するID（aftStopから来る）\n    let recordId = msg.payload.id; \n    // 保存するファイルパスを設定\n    msg.filename = \"/home/it25/.node-red/yutoriru_records/record_\" + recordId + \".json\";\n\n    // データをリセット\n    global.set('recordedData', []);\n\n    return msg;\n} else {\n    node.warn(\"No data recorded.\");\n    return null; // データがなければ保存しない\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 960,
+        "wires": [
+            [
+                "034ce5a4724047cf"
+            ]
+        ]
+    },
+    {
+        "id": "8b2559dd2214c5ef",
+        "type": "comment",
+        "z": "72c11bc9fc25aed7",
+        "name": "ここは解決",
+        "info": "",
+        "x": 620,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "034ce5a4724047cf",
+        "type": "file",
+        "z": "72c11bc9fc25aed7",
+        "name": "writeNode",
+        "filename": "",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "true",
+        "encoding": "none",
+        "x": 680,
+        "y": 960,
+        "wires": [
+            [
+                "50bf0eccf1de25e3"
+            ]
+        ]
+    },
+    {
+        "id": "66b66d54325bc62f",
+        "type": "file",
+        "z": "72c11bc9fc25aed7",
+        "name": "recSens",
+        "filename": "filename",
+        "filenameType": "msg",
+        "appendNewline": true,
+        "createDir": true,
+        "overwriteFile": "true",
+        "encoding": "none",
+        "x": 480,
+        "y": 780,
+        "wires": [
+            [
+                "992c77a82751e9c1"
+            ]
+        ]
+    },
+    {
+        "id": "accc4134d47861fc",
+        "type": "inject",
+        "z": "f33bb04db2567fdf",
+        "name": "TrigerLodeRecord",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "loadRecords",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 60,
+        "wires": [
+            [
+                "c75f351db7c3198a"
+            ]
+        ]
+    },
+    {
+        "id": "c75f351db7c3198a",
+        "type": "file in",
+        "z": "f33bb04db2567fdf",
+        "name": "ReadRecordIndexFile",
+        "filename": "/home/it25/.node-red/yutoriru_records/record_index.json",
+        "filenameType": "str",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 180,
+        "y": 140,
+        "wires": [
+            [
+                "2351056368a496b9"
+            ]
+        ]
+    },
+    {
+        "id": "2351056368a496b9",
+        "type": "function",
+        "z": "f33bb04db2567fdf",
+        "name": "Prepare Record List",
+        "func": "// ファイルから読み込んだJSON文字列をパース\nlet records = [];\ntry {\n    if (msg.payload) { // payloadが空でないことを確認\n        records = JSON.parse(msg.payload);\n    }\n} catch (e) {\n    node.error(\"Failed to parse record_index.json: \" + e.message, msg);\n    return null; // エラー時はメッセージを停止\n}\n\n// ui_dropdown用のオプションリストを作成\n// 各オプションは { value: \"記録ID\", label: \"表示テキスト\" } の形式\nconst options = records.map(record => {\n    const startTime = new Date(record.startTime).toLocaleString('ja-JP', {\n        year: 'numeric', month: '2-digit', day: '2-digit',\n        hour: '2-digit', minute: '2-digit'\n    });\n    const stopTime = new Date(record.stopTime).toLocaleString('ja-JP', {\n        hour: '2-digit', minute: '2-digit'\n    });\n    const label = `${startTime} - ${stopTime} (快適度: ${record.avgComfortScore}, 記録時間: ${record.totalTimeMinutes}分)`;\n    return {\n        value: record.id,       // 選択されたときに送られる値（記録ID）\n        label: label            // ドロップダウンに表示されるテキスト\n    };\n}).reverse(); // 最新の記録が上に来るように反転\n\n// ダッシュボードのui_dropdownノードに送るメッセージを生成\n// ui_dropdownは msg.payload に { options: [...] } 形式を期待する\n// または、msg.options = [...] 形式でも良い\nmsg.payload = { options: options };\n\n// さらに、最初のオプションを初期選択として設定する場合 (任意)\nif (options.length > 0) {\n    msg.payload.selected = options[0].value;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 60,
+        "wires": [
+            [
+                "040a9dde1f48f194"
+            ]
+        ]
+    },
+    {
+        "id": "c211e372db271a20",
+        "type": "debug",
+        "z": "f33bb04db2567fdf",
+        "name": "debug 22",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 440,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "040a9dde1f48f194",
+        "type": "ui_template",
+        "z": "f33bb04db2567fdf",
+        "group": "ab886fba0264bd97",
+        "name": "Record List Custom Dropdown",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "format": "\n<div ng-init=\"init()\">\n    <label for=\"recordSelect\">過去の記録を選択:</label>\n    <select id=\"recordSelect\" ng-model=\"selectedRecordId\" ng-options=\"option.value as option.label for option in options\" ng-change=\"sendSelectedRecord()\">\n        <option value=\"\">-- 選択してください --</option>\n    </select>\n</div>\n\n<script>\n    (function(scope) {\n    scope.options = []; // ドロップダウンのオプションを初期化\n    scope.selectedRecordId = \"\"; // 選択された記録IDを初期化\n\n    // Node-REDから新しいオプションが届いたときに更新\n    scope.$watch('msg', function() {\n        if (scope.msg && scope.msg.payload && scope.msg.payload.options) {\n            scope.options = scope.msg.payload.options;\n            // 必要であれば、初期選択値を設定\n            if (scope.msg.payload.selected) {\n                scope.selectedRecordId = scope.msg.payload.selected;\n            } else if (scope.options.length > 0) {\n                // 最初の項目を自動選択し、そのIDをNode-REDに送信\n                scope.selectedRecordId = scope.options[0].value;\n                scope.sendSelectedRecord(); // 初期選択をトリガー\n            }\n        }\n    });\n\n    // ユーザーがドロップダウンを選択したときにNode-REDにメッセージを送信\n    scope.sendSelectedRecord = function() {\n        if (scope.selectedRecordId) {\n            // payload の中に selected という箱を作って ID を入れる\n            scope.send({ payload: { selected: scope.selectedRecordId }, topic: 'recordSelected' });\n        }\n    };\n\n    // 初期化処理 (ダッシュボードがロードされたときに実行)\n    scope.init = function() {\n        // オプション: ダッシュボードロード時に自動的に記録リストを読み込むトリガーを送る\n        // scope.send({ topic: 'loadRecords', payload: Date.now() });\n        // この行を使う場合は、injectノードのRepeatを「none」にして、手動トリガー専用にするか、削除しても良い\n    };\n})(scope);\n</script>",
+        "storeOutMessages": true,
+        "fwdInMessages": false,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 470,
+        "y": 140,
+        "wires": [
+            [
+                "70d1d0da06d07388"
+            ]
+        ]
+    },
+    {
+        "id": "1d05d2ac7872e03b",
+        "type": "change",
+        "z": "f33bb04db2567fdf",
+        "name": "GenerateRecordPath",
+        "rules": [
+            {
+                "t": "set",
+                "p": "filename",
+                "pt": "msg",
+                "to": "\"/home/it25/.node-red/yutoriru_records/record_\" & msg.payload & \".json\"",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 820,
+        "y": 40,
+        "wires": [
+            [
+                "aa69cbfee1e4df5f"
+            ]
+        ]
+    },
+    {
+        "id": "9b6bfafa7fc040ab",
+        "type": "comment",
+        "z": "f33bb04db2567fdf",
+        "name": "バックエンドは９割完成、UIとグラフィックスを考えていく、あとは過去のインデックスの挿入の自動化とオプション",
+        "info": "",
+        "x": 440,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "2deb85737d0e6519",
+        "type": "function",
+        "z": "f33bb04db2567fdf",
+        "name": "Prepare Chart Data",
+        "func": "// どんなデータが来たかログに出す（デバッグ用、不要ならコメントアウト）\nnode.warn(\"Received data type: \" + typeof msg.payload);\n// node.warn(\"Received data content: \" + JSON.stringify(msg.payload));\n\nlet reportData;\n\n// 1. 届いたデータのタイプをチェックして適切に処理する\nif (typeof msg.payload === 'string') {\n    // 文字列ならJSONとしてパースを試みる\n    try {\n        reportData = JSON.parse(msg.payload);\n        node.warn(\"Data was string, parsed successfully.\");\n    } catch (e) {\n        node.error(\"JSON parse error: \" + e.message);\n        return null; // パースできない場合はここで終了\n    }\n} else if (typeof msg.payload === 'object' && msg.payload !== null) {\n    // すでにオブジェクトならそのまま使う\n    reportData = msg.payload;\n    node.warn(\"Data was already an object.\");\n} else {\n    // それ以外の型（数値、nullなど）が来たらエラー\n    node.error(\"Invalid payload type: \" + typeof msg.payload);\n    return null;\n}\n\n// 2. レポートの中の records 配列を取り出す\n// （reportDataが正しく取得できたか確認）\nif (!reportData || !reportData.records) {\n     node.warn(\"No records found in the data.\");\n     return null;\n}\nlet recordData = reportData.records;\n\n// 3. データが配列であることを確認\nif (!Array.isArray(recordData)) {\n    node.error(\"recordData is not an array!\");\n    return null;\n}\n\n// --- ここから下は元のコードと同じグラフ用データ作成処理 ---\n\n// グラフ用にデータを整形\nconst temperatureData = [];\nconst humidityData = [];\nconst lightData = [];\nconst soundData = [];\nlet totalComfortScore = 0; // このコードでは使われませんが念のため残します\nlet comfortCount = 0;      // このコードでは使われませんが念のため残します\n\nrecordData.forEach(entry => {\n    const timestamp = new Date(entry.timestamp); // X軸の時刻データ\n    // 数値型に変換してからプッシュする（安全のため）\n    temperatureData.push({ x: timestamp, y: parseFloat(entry.temperature) });\n    humidityData.push({ x: timestamp, y: parseFloat(entry.humidity) });\n    lightData.push({ x: timestamp, y: parseFloat(entry.light) });\n    soundData.push({ x: timestamp, y: parseFloat(entry.sound) });\n\n    // ※快適度スコアの計算ロジックは元のコードにありましたが、\n    // reportData自体に avgComfortScore が含まれているので、\n    // そちらを使う方が簡単です。ここでは計算を省略します。\n});\n\n// レポートデータから平均快適度を取得\nconst avgComfort = reportData.avgComfortScore || \"N/A\";\n\n// 各グラフノードに送るメッセージを準備\n// 温度グラフ用のメッセージ\nconst msgTemp = {\n    topic: \"Temperature\",\n    payload: [{\n        series: [\"温度\"],\n        data: [temperatureData],\n        labels: []\n    }],\n    summary: { avgComfortScore: avgComfort }\n};\n\n// 湿度グラフ用のメッセージ\nconst msgHum = {\n    topic: \"Humidity\",\n    payload: [{\n        series: [\"湿度\"],\n        data: [humidityData],\n        labels: []\n    }],\n    summary: { avgComfortScore: avgComfort }\n};\n\n// 光量グラフ用のメッセージ\nconst msgLight = {\n    topic: \"Light\",\n    payload: [{\n        series: [\"光量\"],\n        data: [lightData],\n        labels: []\n    }],\n    summary: { avgComfortScore: avgComfort }\n};\n\n// 音量グラフ用のメッセージ\nconst msgSound = {\n    topic: \"Sound\",\n    payload: [{\n        series: [\"音量\"],\n        data: [soundData],\n        labels: []\n    }],\n    summary: { avgComfortScore: avgComfort }\n};\n\n// 複数のメッセージを配列で返す\nreturn [msgTemp, msgHum, msgLight, msgSound];",
+        "outputs": 4,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 750,
+        "y": 200,
+        "wires": [
+            [
+                "a8d48644a940f55f",
+                "c211e372db271a20"
+            ],
+            [
+                "2291122865577d7e"
+            ],
+            [
+                "779988b7436824f6"
+            ],
+            [
+                "8a90b96cab770126"
+            ]
+        ]
+    },
+    {
+        "id": "aa69cbfee1e4df5f",
+        "type": "file in",
+        "z": "f33bb04db2567fdf",
+        "name": "Read Selected Record Data",
+        "filename": "filename",
+        "filenameType": "msg",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 900,
+        "y": 100,
+        "wires": [
+            [
+                "2deb85737d0e6519"
+            ]
+        ]
+    },
+    {
+        "id": "70d1d0da06d07388",
+        "type": "function",
+        "z": "f33bb04db2567fdf",
+        "name": "Extract ID",
+        "func": "// ドロップダウンから送られてくるメッセージから\n// \"selected\" に入っている記録IDだけを取り出す\nif (msg.payload && msg.payload.selected) {\n    // IDだけを新しい msg.payload にする\n    msg.payload = msg.payload.selected;\n    // そのまま次のノードへ渡す\n    return msg;\n} else {\n    // もしデータが変な形で来た場合は、エラーログを出して何もしない\n    node.error(\"Error: msg.payload.selected not found!\", msg);\n    return null;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 40,
+        "wires": [
+            [
+                "1d05d2ac7872e03b"
+            ]
+        ]
+    },
+    {
+        "id": "a8d48644a940f55f",
+        "type": "ui_chart",
+        "z": "f33bb04db2567fdf",
+        "name": "temperatureSummaryChart",
+        "group": "ab886fba0264bd97",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "label": "TemperaturaSummary",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "40",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1000,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "8a90b96cab770126",
+        "type": "ui_chart",
+        "z": "f33bb04db2567fdf",
+        "name": "SoundSammaryChart",
+        "group": "ab886fba0264bd97",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "label": "SoundSammary",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1000,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2291122865577d7e",
+        "type": "ui_chart",
+        "z": "f33bb04db2567fdf",
+        "name": "HumiditySammaryChart",
+        "group": "ab886fba0264bd97",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "label": "HumiditySammary",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1050,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "779988b7436824f6",
+        "type": "ui_chart",
+        "z": "f33bb04db2567fdf",
+        "name": "LightSammaryChart",
+        "group": "ab886fba0264bd97",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "label": "LightSammary",
+        "chartType": "line",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1040,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    }
+]
